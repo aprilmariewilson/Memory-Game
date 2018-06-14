@@ -7,7 +7,7 @@ import "./App.css";
 // score and changing messages on page
 let correctGuesses = 0;
 let bestScore = 0;
-let clickMessage = "click on a super cute puppy to earn points but dont click on image more than once or game over";
+let clickMessage = "click on a super cute puppy to earn points but don't click on image more than once or it's game over.";
 
 class App extends Component {
     
